@@ -1,4 +1,5 @@
-![logo](https://photos.app.goo.gl/vn4PAGaLrozEgp4R8)
+![logo](https://github.com/user-attachments/assets/1b6e1395-e114-4e79-a67b-f3424a6df18d)
+
 <h1 align="center">Hi 👋, I'm Drag0nSlay</h1>
 <h3 align="center">A passionate about Cybersecurity / Ethical Hacking</h3>
 
