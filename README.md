@@ -1,6 +1,6 @@
 ![logo](https://github.com/user-attachments/assets/b7d4a7c4-8a23-446b-ad18-c947deb3b27a)
 
-
+<!--[tryhackme stats](https://www.tryhackme.com/badge/3046037)-->
 <h1 align="center">Hi 👋, I'm Drag0nSlay</h1>
 <h3 align="center">A passionate about Cybersecurity / Ethical Hacking</h3>
 
