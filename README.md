@@ -11,9 +11,6 @@
 - 🌱 I’m currently learning **Digital Forensics, Bug Bounty.**
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Drag0nSlay.png" alt="TryHackMe" align="right">
-<script src="https://tryhackme.com/badge/3046037">
-  THM
-</script>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
