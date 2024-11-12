@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Drag0nSlay</h1>
 <h3 align="center">A passionate about Cybersecurity / Ethical Hacking</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drag0nslay&label=Profile%20views&color=0e75b6&style=flat" alt="drag0nslay" /> </p>
+<p align="left"> <img src="https://tryhackme-badges.s3.amazonaws.com/Drag0nSlay.png" alt="TryHackMe Badge" /> </p>
 
 - 🔭 I’m currently working on **WAF-B**
 
