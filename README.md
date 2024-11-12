@@ -4,13 +4,13 @@
 <h1 align="center">Hi 👋, I'm Drag0nSlay</h1>
 <h3 align="center">A passionate about Cybersecurity / Ethical Hacking</h3>
 
-<p align="left"> <img src="https://tryhackme-badges.s3.amazonaws.com/Drag0nSlay.png" alt="TryHackMe Badge" /> </p>
+<!--<p align="left">  </p>-->
 
 - 🔭 I’m currently working on **WAF-B**
 
 - 🌱 I’m currently learning **Digital Forensics, Bug Bounty.**
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Drag0nSlay.png" alt="TryHackMe" align="right"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Drag0nSlay.png" alt="TryHackMe Badge" align="right"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
