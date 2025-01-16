@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **TryHackMe OSINT-Recon Lab**
 
-- 🌱 I’m currently learning **Digital Forensics, Bug Bounty.**
+- 🌱 I’m currently learning **DFIR, Bug Bounty, System-Hacking**
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Drag0nSlay.png" alt="TryHackMe Badge" align="right"/>
 
