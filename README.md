@@ -6,7 +6,7 @@
 
 <!--<p align="left">  </p>-->
 
-- 🔭 I’m currently working on **WAF-B**
+- 🔭 I’m currently working on **TryHackMe OSINT-Recon Lab**
 
 - 🌱 I’m currently learning **Digital Forensics, Bug Bounty.**
 
