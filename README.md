@@ -10,8 +10,7 @@
 
 - 🌱 I’m currently learning **DFIR, Bug Bounty, System-Hacking**
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3046037" alt="TryHackMe Badge" align="right"</iframe>
-<!--<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3046037" style='border:none;'></iframe>-->
+<img src="https://tryhackme-badges.s3.amazonaws.com/Drag0nSlay.png" alt="Your Image Badge" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
