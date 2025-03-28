@@ -1,9 +1,20 @@
+<h1 align="center">Hi 👋, I'm Drag0nSlay</h1>
+
 ![logo](https://github.com/user-attachments/assets/b7d4a7c4-8a23-446b-ad18-c947deb3b27a)
 
-<!--[tryhackme stats](https://www.tryhackme.com/badge/3046037)-->
-<h1 align="center">Hi 👋, I'm Drag0nSlay</h1>
 <h3 align="center">A passionate about Cybersecurity / Ethical Hacking</h3>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0ff&center=true&vCenter=true&lines=Welcome+to+the+Cyber+Realm;I+am+Drag0nSlay;Cybersecurity+Enthusiast;Hacker+in+the+Shadows" />
+</h1>
+
+---
+
+## 🚀 About Me
++ Ethical Hacker | Cybersecurity Researcher | OSINT Enthusiast
+- Exploring the shadows of cyberspace, finding vulnerabilities before others do. <!--![logo](https://github.com/user-attachments/assets/b7d4a7c4-8a23-446b-ad18-c947deb3b27a)-->
+
+<!--[tryhackme stats](https://www.tryhackme.com/badge/3046037)-->
 <!--<p align="left">  </p>-->
 
 - 🔭 I’m currently working on **TryHackMe OSINT-Recon Lab**
