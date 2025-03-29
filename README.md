@@ -14,19 +14,19 @@
 
 ## 🛠️ **Tech Stack**
 ### **🚀 Programming Languages**
-![Python](https://img.shields.io/badge/Python-0ff?style=for-the-badge&logo=python&logoColor=black)
-![C](https://img.shields.io/badge/C-0ff?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-0ff?style=for-the-badge&logo=c%2B%2B&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-0ff?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-0ff?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-0ff?style=for-the-badge&logo=css3&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **⚡ Cybersecurity & Tools**
-![Linux](https://img.shields.io/badge/Linux-0ff?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-0ff?style=for-the-badge&logo=git&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-0ff?style=for-the-badge&logo=mysql&logoColor=black)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0ff?style=for-the-badge&logo=burp-suite&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-0ff?style=for-the-badge&logo=wireshark&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 
 ---
 
