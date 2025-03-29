@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Drag0nSlay</h1>
 
-![logo](https://github.com/user-attachments/assets/b7d4a7c4-8a23-446b-ad18-c947deb3b27a)
+<!--![logo](https://github.com/user-attachments/assets/b7d4a7c4-8a23-446b-ad18-c947deb3b27a)-->
+
+<p align="center">
+  <img src="https://github.com/Drag0nSlay/Drag0nSlay/blob/main/assets/hacker-man-hacker.gif?raw=true" width="600" />
+</p>
+
 
 <h3 align="center">A passionate about Cybersecurity / Ethical Hacking</h3>
 
