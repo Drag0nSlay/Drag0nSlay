@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0FF&center=true&vCenter=true&lines=Welcome+to+the+Cyber+Realm;I+am+Drag0nSlay;Cybersecurity+Enthusiast;Hacker+in+the+Shadows&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Welcome+to+the+Cyber+Realm;I+am+Drag0nSlay;Cybersecurity+Enthusiast;Hacker+in+the+Shadows&size=22" />
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://img.shields.io/badge/DRAG0N%20HACKER-0FF?style=for-the-badge&logo=matrix&logoColor=black" />
+  <img src="https://img.shields.io/badge/DRAG0N%20HACKER-00FF00?style=for-the-badge&logo=matrix&logoColor=black" />
 </h3>
 
 ---
