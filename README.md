@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://img.shields.io/badge/CYBERPUNK%20HACKER-0FF?style=for-the-badge&logo=matrix&logoColor=black" />
+  <img src="https://img.shields.io/badge/DRAG0N%20HACKER-0FF?style=for-the-badge&logo=matrix&logoColor=black" />
 </h3>
 
 ---
