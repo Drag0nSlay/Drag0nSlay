@@ -31,7 +31,8 @@
 ---
 
 ## 🔗 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0ff?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/aman-kothari-995944274)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kothari-995944274)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/Drag0nSlay)
 
 ---
 
