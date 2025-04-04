@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/DRAG0N%20HACKER-00FF00?style=for-the-badge&logo=matrix&logoColor=black" />
 </h3>
 
+![](https://komarev.com/ghpvc/?username=Drag0nSlay&abbreviated=true)
+
 ---
 
 ## 🛠️ **Tech Stack**
