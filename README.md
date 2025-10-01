@@ -40,8 +40,8 @@
 
 ## 🏆 **Hacker Profile**
 **👾 OSINT & Red Teaming Enthusiast**  
-**🔭 Currently working on:** Intrusion Detection System using Raspberry Pi.
-**🌱 Learning:** SOC, Penetration Testing.
+**🔭 Currently working on:** Intrusion Detection System using Raspberry Pi <br>
+**🌱 Learning:** SOC, Penetration Testing
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Drag0nSlay.png" alt="TryHackMe Badge" align="right"/>
 
