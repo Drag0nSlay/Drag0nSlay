@@ -4,10 +4,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://github.com/Drag0nSlay/Drag0nSlay/blob/main/assets/hacker-man-hacker.gif?raw=true" width="600" />
-</p>
-
 <div align="center">
 
 ```
@@ -155,6 +151,9 @@ print(me.current_mission())
 ```
 > The quieter you become, the more you are able to hear. 🐉
 ```
+<p align="center">
+  <img src="https://github.com/Drag0nSlay/Drag0nSlay/blob/main/assets/hacker-man-hacker.gif?raw=true" width="600" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:000000&height=120&section=footer" width="100%"/>
 
