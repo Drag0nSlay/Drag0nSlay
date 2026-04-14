@@ -16,7 +16,9 @@
 ```
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Welcome+to+the+Cyber+Realm;I+am+Drag0nSlay;Cybersecurity+Enthusiast;Hacker+in+the+Shadows&size=22" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2200&pause=700&color=0:000000,0:FF0000,100:8B0000&center=true&vCenter=true&width=960&lines=Welcome+to+the+Cyber+Realm;I+am+Drag0nSlay;Cybersecurity+Enthusiast;Hacker+in+the+Shadows)](https://github.com/Drag0nSlay)
+
 </h1>
 
 <br/>
