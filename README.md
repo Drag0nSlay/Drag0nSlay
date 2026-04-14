@@ -4,6 +4,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://github.com/Drag0nSlay/Drag0nSlay/blob/main/assets/hacker-man-hacker.gif?raw=true" width="600" />
+</p>
+
 <div align="center">
 
 ```
