@@ -77,7 +77,6 @@ Status      : [████████████░░░░] Leveling Up...
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
 </div>
 
@@ -90,9 +89,9 @@ class Drag0nSlay:
     def __init__(self):
         self.alias       = "Drag0nSlay"
         self.interests   = ["OSINT", "Red Teaming", "CTFs", "Malware Analysis"]
-        self.building    = "Intrusion Detection System (IDS) — Raspberry Pi"
+        self.building    = "Intrusion Detection System (IDS)"
         self.learning    = ["SOC", "Penetration Testing", "Bash", "PowerShell"]
-        self.platforms   = ["TryHackMe", "HackTheBox"]
+        self.platforms   = ["TryHackMe", "BTLO"]
         self.os          = "Kali Linux 🐉"
 
     def current_mission(self):
