@@ -41,7 +41,7 @@ Name        : Aman Kothari
 Alias       : Drag0nSlay
 Role        : Cybersecurity Enthusiast & Red Teamer
 Focus       : OSINT | Penetration Testing | SOC | IDS
-Currently   : Building an Intrusion Detection System on Raspberry Pi
+Currently   : Building an Intrusion Detection System
 Learning    : SOC Operations | Bash Scripting | PowerShell | Pen Testing
 Status      : [████████████░░░░] Leveling Up...
 ```
